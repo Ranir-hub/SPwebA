@@ -5,7 +5,7 @@ var swiper = new Swiper(".thisSwiper", {
       el: ".swiper-pagination",
   },
   mousewhell: true,
-  keuboard: true, 
+  keyboard: true, 
   slidesPerView: 'auto',
   breakpoints: {
       576: {
