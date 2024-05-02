@@ -22,12 +22,6 @@
   .lesson .lesson-text {
     padding-top: 10px;
     padding-left: 0px;
-    text-align: center;
     gap: 15px;
-  }
-}
-@media screen and (max-width: 576px) {
-  .lesson .lesson-text {
-    text-align: left;
   }
 }/*# sourceMappingURL=lesson.css.map */

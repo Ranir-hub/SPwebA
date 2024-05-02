@@ -23,16 +23,6 @@
   display: flex;
   gap: 15px;
 }
-@media screen and (max-width: 991px) {
-  .promo .promo_base .promo_base-text {
-    text-align: center;
-  }
-}
-@media screen and (max-width: 576px) {
-  .promo .promo_base .promo_base-text {
-    text-align: left;
-  }
-}
 .promo .promo_base .promo_base-button {
   margin-top: 10px;
   display: grid;

@@ -157,16 +157,6 @@
   display: flex;
   gap: 15px;
 }
-@media screen and (max-width: 991px) {
-  .promo .promo_base .promo_base-text {
-    text-align: center;
-  }
-}
-@media screen and (max-width: 576px) {
-  .promo .promo_base .promo_base-text {
-    text-align: left;
-  }
-}
 .promo .promo_base .promo_base-button {
   margin-top: 10px;
   display: grid;
@@ -298,7 +288,6 @@ p {
 }
 @media screen and (max-width: 991px) {
   .teacher .teacher-text {
-    text-align: center;
     gap: 15px;
   }
 }
@@ -349,13 +338,7 @@ p {
   .lesson .lesson-text {
     padding-top: 10px;
     padding-left: 0px;
-    text-align: center;
     gap: 15px;
-  }
-}
-@media screen and (max-width: 576px) {
-  .lesson .lesson-text {
-    text-align: left;
   }
 }
 
@@ -505,16 +488,6 @@ p {
   gap: 10px;
   display: flex;
   flex-direction: column;
-}
-@media screen and (max-width: 991px) {
-  .distance .distance_promo .distance_promo-text {
-    text-align: center;
-  }
-}
-@media screen and (max-width: 576px) {
-  .distance .distance_promo .distance_promo-text {
-    text-align: left;
-  }
 }
 @media screen and (max-width: 576px) {
   .distance .distance_promo .distance_promo-text p {
